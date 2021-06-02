@@ -1,2 +1,2 @@
 # NautilusCodes2021
-Code of 7594 Nautilus used for RCC 2021
+7594 Nautilus's code for RCC 2021
